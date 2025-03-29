@@ -1,0 +1,50 @@
+# Python dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Kullanıcı hesap bilgileri
+codeium_hesaplar.txt
+
+# Tarayıcı ve otomasyon dosyaları
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+chromedriver.exe
+geckodriver.exe
+verification_screen.png
+
+# Sistem dosyaları
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Log dosyaları
+*.log
+*.json.log
+logs/ 

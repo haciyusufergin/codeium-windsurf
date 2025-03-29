@@ -24,8 +24,8 @@ Bu araç, Codeium platformuna otomatik kayıt sürecini yönetir. Geçici e-post
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/username/codeium-windsurf2.git
-cd codeium-windsurf2
+git clone https://github.com/username/codeium-windsurf.git
+cd codeium-windsurf
 
 # Bağımlılıkları yükle
 pip install -r requirements.txt

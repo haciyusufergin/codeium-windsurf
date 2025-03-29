@@ -1,0 +1,5 @@
+selenium==4.18.1
+webdriver-manager==4.0.1
+requests==2.31.0
+python-telegram-bot==20.8
+undetected-chromedriver==3.5.5
